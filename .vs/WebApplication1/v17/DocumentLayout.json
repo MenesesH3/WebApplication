@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|c:\\users\\guilherme\\source\\repos\\webapplication1\\webapplication1\\views\\ocorrencia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\ocorrencia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|c:\\users\\guilherme\\source\\repos\\webapplication1\\webapplication1\\controllers\\ocorrenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\ocorrenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|c:\\users\\guilherme\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|c:\\users\\guilherme\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_pager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_pager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|c:\\users\\guilherme\\source\\repos\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|c:\\users\\guilherme\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|c:\\users\\guilherme\\source\\repos\\webapplication1\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|c:\\users\\guilherme\\source\\repos\\webapplication1\\webapplication1\\models\\ocorrencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\ocorrencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|c:\\users\\guilherme\\source\\repos\\webapplication1\\webapplication1\\models\\ocorrenciaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\ocorrenciaview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|c:\\users\\guilherme\\source\\repos\\webapplication1\\webapplication1\\views\\ocorrencia\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C1DA508-2928-4DCF-A88E-534E11B2C883}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\ocorrencia\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Ocorrencia\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Ocorrencia\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Ocorrencia\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Ocorrencia\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T02:20:31.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Pager.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Pager.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Pager.cshtml",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Pager.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Pager.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T01:07:46.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ocorrenciaview.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Ocorrenciaview.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Ocorrenciaview.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Ocorrenciaview.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Ocorrenciaview.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T00:28:19.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Ocorrencia\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Ocorrencia\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Ocorrencia\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Ocorrencia\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAiwEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T00:22:04.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T00:12:19.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OcorrenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\OcorrenciaController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\OcorrenciaController.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\OcorrenciaController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\OcorrenciaController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwFsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T00:02:43.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ocorrencia.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Ocorrencia.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Ocorrencia.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Ocorrencia.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Ocorrencia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T00:00:48.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T23:43:27.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T23:41:51.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T23:38:40.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
